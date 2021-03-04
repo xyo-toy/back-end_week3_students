@@ -2,7 +2,7 @@
 
 add a new controller, name of the controller : StudentsController; 
 
-two new tables "Students" and "Students_Description"
+two new tables "Students" and "Students_Description":
 -Student 
   Id(int), grade(string)
 -Students_Description
