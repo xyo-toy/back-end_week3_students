@@ -3,7 +3,9 @@
 add a new controller, name of the controller : StudentsController; 
 
 two new tables "Students" and "Students_Description":
--Student 
+
+-Student:
   Id(int), grade(string)
--Students_Description
+  
+-Students_Description:
   Id(int), Students_Id(int), Age(int), First_name, Last_name, Address(string), Country(string)
